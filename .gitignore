@@ -1,0 +1,20 @@
+# Environment
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.bak
+
+# Node modules (if any)
+node_modules/
+session-pi.txt
